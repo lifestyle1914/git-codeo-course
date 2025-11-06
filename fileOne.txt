@@ -1,1 +1,1 @@
-rom remote    This is my chenges git repo
+This is my chenges git repo added from remote
